@@ -1,0 +1,46 @@
+/* color kısmı başlangıcı */
+
+.list-style {
+    list-style-position: inside;
+}
+
+.text-color {
+
+    color: #B80000;
+
+}
+body {
+    background-color: bisque;
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    
+}
+
+/* color kısmı bitişi */
+
+/* text kısmı başlangıcı */
+
+.fs-16 {
+    font-size: 16px;
+
+}
+.fs-25 {
+    font-size: 25px;
+
+}
+.fs-40 {
+    font-size: 40px;
+
+}
+
+.ts-p{
+    text-align: center;
+}
+
+
+/* text kısmı bitişi */
+
+.img-style {
+    width: 25%;
+}
+
